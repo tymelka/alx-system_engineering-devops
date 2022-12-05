@@ -32,3 +32,19 @@ drwxr-xr-x 6 root root 121 Dec  4 23:41 ..
 -rwxr-xr-x 1 root root  80 Dec  5 10:14 8-cwd_state~
 -rw-r--r-- 1 root root 827 Dec  5 10:22 ls_cwd_content
 -rw------- 1 root root  24 Dec  5 01:13 README.md
+total 52
+drwxr-xr-x 2 root root  271 Dec  5 11:11 .
+drwxr-xr-x 6 root root  121 Dec  4 23:41 ..
+-rwx------ 1 root root   32 Dec  4 23:58 0-hello_world
+-rwx------ 1 root root   28 Dec  5 00:08 1-confused_smiley
+-rwxr-xr-x 1 root root   30 Dec  5 03:57 2-hellofile
+-rwx------ 1 root root   41 Dec  5 01:18 3-twofiles
+-rwxr-xr-x 1 root root   29 Dec  5 04:42 4-lastlines
+-rwxr-xr-x 1 root root   29 Dec  5 04:50 5-firstlines
+-rwxr-xr-x 1 root root   42 Dec  5 10:48 #6-third_line#
+-rwxr-xr-x 1 root root   42 Dec  5 10:29 6-third_line
+-rwxr-xr-x 1 root root   80 Dec  5 06:04 7-file
+-rwxr-xr-x 1 root root   37 Dec  5 10:23 8-cwd_state
+-rwxr-xr-x 1 root root   39 Dec  5 10:55 9-duplicate_last_line
+-rw-r--r-- 1 root root 1654 Dec  5 10:23 ls_cwd_content
+-rw------- 1 root root   24 Dec  5 01:13 README.md
