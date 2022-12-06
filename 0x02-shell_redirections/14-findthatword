@@ -1,2 +1,2 @@
 #!/bin/bash
-list sort | uniqu -u 
+grep root /etc/passwd 
